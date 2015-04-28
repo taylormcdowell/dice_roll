@@ -2,7 +2,8 @@
 A simple dice-rolling application with cheesy dice image display.
 
 # Setup/Running
-Clone this to your machine (ex. ~/Desktop/dice_roll)
+Clone this to your machine (ex. ~/Desktop/dice_roll).
+Then run this in command line:
 
 + cd Desktop
 + cd dice_roll
